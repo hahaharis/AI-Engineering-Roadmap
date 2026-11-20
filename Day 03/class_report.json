@@ -1,0 +1,38 @@
+{
+    "total_students": 5,
+    "average_marks": 83.0,
+    "highest_scorer": {
+        "name": "Ayesha",
+        "marks": 95.0,
+        "subject": "Python"
+    },
+    "passed_students": 5,
+    "failed_students": 0,
+    "student_records": [
+        {
+            "name": "Ali",
+            "marks": 85.0,
+            "subject": "Python"
+        },
+        {
+            "name": "Ahmed",
+            "marks": 92.0,
+            "subject": "AI"
+        },
+        {
+            "name": "Sara",
+            "marks": 78.0,
+            "subject": "Python"
+        },
+        {
+            "name": "Usman",
+            "marks": 65.0,
+            "subject": "AI"
+        },
+        {
+            "name": "Ayesha",
+            "marks": 95.0,
+            "subject": "Python"
+        }
+    ]
+}
